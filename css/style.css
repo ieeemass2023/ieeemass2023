@@ -1158,3 +1158,15 @@ ul.social-icons li {
   margin-top: 25px;
   margin-bottom: 10px;
 }
+
+.comsoc-logo {
+  width: 129px;
+  height: 45px;
+  margin-right: 10px;
+}
+
+.ieee-logo {
+  width: 125px;
+  height: 36px;
+  margin-left: 10px;
+}
